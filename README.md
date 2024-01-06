@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sunny Arya</h1>
 <h3 align="center">A passionate AI and Software Engeenering from IIT Madras, Chennai, India</h3>
 
-- 🌱 I’m currently learning **Flask and Vue Js.**
+- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence and IoT**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, MySQL, Spring Boot and Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, MySQL, Spring Boot, Python, Flask, dJango, Vue Js. React Js./Native Flutter and PostgreSQL**
 
 - 📫 How to reach me **sunnikumar.arya@gmail.com**
 
