@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sunni Kumar</h1>
+<h1 align="center">Hi 👋, I'm Sunny Arya</h1>
 <h3 align="center">A passionate AI and Software Engeenering from IIT Madras, Chennai, India</h3>
 
 - 🌱 I’m currently learning **Flask and Vue Js.**
